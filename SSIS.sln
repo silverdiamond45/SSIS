@@ -7,6 +7,8 @@ Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Project1", "Project1\Projec
 EndProject
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "incremental_load", "incremental_load\incremental_load.dtproj", "{F1108E38-1277-4E56-BE83-794C365AB58E}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Project02_ForLoop", "..\..\..\..\Downloads\70767DataWarehouse-master\Lesson08 SSIS Advanced01\_VSProjects\Project02_ForLoop\Project02_ForLoop.dtproj", "{D29A7129-2411-45F4-89F3-2406B37EF31E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -16,6 +18,8 @@ Global
 		{18A49FF0-5157-40A5-AD48-2205184DC754}.Development|Default.Build.0 = Development
 		{F1108E38-1277-4E56-BE83-794C365AB58E}.Development|Default.ActiveCfg = Development
 		{F1108E38-1277-4E56-BE83-794C365AB58E}.Development|Default.Build.0 = Development
+		{D29A7129-2411-45F4-89F3-2406B37EF31E}.Development|Default.ActiveCfg = Development
+		{D29A7129-2411-45F4-89F3-2406B37EF31E}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
