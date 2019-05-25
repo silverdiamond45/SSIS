@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Project1", "Project1\Project1.dtproj", "{18A49FF0-5157-40A5-AD48-2205184DC754}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "incremental_load", "incremental_load\incremental_load.dtproj", "{F1108E38-1277-4E56-BE83-794C365AB58E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -12,6 +14,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{18A49FF0-5157-40A5-AD48-2205184DC754}.Development|Default.ActiveCfg = Development
 		{18A49FF0-5157-40A5-AD48-2205184DC754}.Development|Default.Build.0 = Development
+		{F1108E38-1277-4E56-BE83-794C365AB58E}.Development|Default.ActiveCfg = Development
+		{F1108E38-1277-4E56-BE83-794C365AB58E}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
